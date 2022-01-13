@@ -1,0 +1,16 @@
+.message {
+    margin: 15px 0px;
+    padding: 10px;
+    border-radius: 5px;
+    &-warning {}
+    &__error {
+        background: red;
+        border: 1px solid red;
+        color: white;
+    }
+    &__success {
+        background: green;
+        border: 1px solid green;
+        color: white;
+    }
+}

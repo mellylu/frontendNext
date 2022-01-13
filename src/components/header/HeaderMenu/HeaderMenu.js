@@ -10,7 +10,7 @@ const Headermenu = () => {
                     <li>
                         <Link href="/">
                             <a>
-                            Home
+                            Accueil
                             </a>
                         </Link>
                     </li>
